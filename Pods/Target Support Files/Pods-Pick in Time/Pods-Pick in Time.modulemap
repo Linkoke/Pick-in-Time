@@ -1,0 +1,6 @@
+framework module Pods_Pick_in_Time {
+  umbrella header "Pods-Pick in Time-umbrella.h"
+
+  export *
+  module * { export * }
+}
